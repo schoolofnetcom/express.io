@@ -1,0 +1,25 @@
+{
+  "name": "son-express-io",
+  "version": "1.0.0",
+  "description": "son, express, socket, websocket, SON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "io",
+    "socket",
+    "websocket",
+    "school",
+    "of",
+    "net",
+    "son"
+  ],
+  "author": "Leonan <School of net>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express.io": "^1.1.13"
+  }
+}
